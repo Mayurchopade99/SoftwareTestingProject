@@ -56,7 +56,7 @@ public class Utility {
 
 	public static String readDataFromPropertiesFile(String key) throws IOException {
 		Properties properties = new Properties();
-		FileInputStream myFile = new FileInputStream("E:\\Automation testing\\Coverfox_Test\\src\\main\\resources\\config\\config.properties");
+		FileInputStream myFile = new FileInputStream("G:\\Software Testing\\SoftwareTestingProject\\src\\main\\resources\\config\\config.properties");
 		properties.load(myFile);
 		String value = properties.getProperty(key);
 		System.out.println("reading " + key + " and value is " + value);

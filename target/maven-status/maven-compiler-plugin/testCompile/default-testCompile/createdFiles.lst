@@ -1,7 +1,3 @@
-assertionStudy\Demo.class
-assertionStudy\Keyword1.class
-assertionStudy\Keyword.class
-runner\HealthInsuranceRunner.class
-assertionStudy\TestNGAnnotations.class
 hooks\Hooks.class
+runner\HealthInsuranceRunner.class
 stepDefinitions\HealthInsurance.class
