@@ -114,6 +114,7 @@ public class HealthInsurance {
 	  String mobErrMsg= coverfoxAddressDetailsPage.getMobNumErrMsg();		
 		Reporter.log("Pinocode error message is: "+pinErrMsg, true);
 		Reporter.log("Mobile number error message is"+mobErrMsg, true);
+		Reporter.log("Changes by priyanka", true);
 		
 	}
 
