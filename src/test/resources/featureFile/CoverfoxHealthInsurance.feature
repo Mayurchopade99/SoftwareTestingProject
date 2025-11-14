@@ -16,6 +16,11 @@ And I provide age as "34" and click on next button
 And I click on continue button
 Then Validate error messages 
 
+Scenario: TC03: Validate bike insurance
+Given Test
+When TEST
+Then Validate bike insurance
+
 
 
 
