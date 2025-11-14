@@ -16,6 +16,13 @@ And I provide age as "34" and click on next button
 And I click on continue button
 Then Validate error messages 
 
+Scenario: TC03: validate travel insurance
+Given test
+When test
+And  test
+Then validate travel insurance
+
+
 
 
 
