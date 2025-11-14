@@ -14,7 +14,7 @@
       <![CDATA[setting browser as Chrome]]>
     </line>
     <line>
-      <![CDATA[gettting pincode error msg , msg is [[ChromeDriver: chrome on windows (90c3ccb0615ecec04e5f675de3e16f95)] -> xpath: //div[contains(text(),'pincode ')]]]]>
+      <![CDATA[gettting pincode error msg , msg is [[ChromeDriver: chrome on windows (40514c00a7d1b54081f8cb31f0c8f596)] -> xpath: //div[contains(text(),'pincode ')]]]]>
     </line>
     <line>
       <![CDATA[getting mobile number error msg , msg is Please enter a valid mobile no.]]>
@@ -26,29 +26,32 @@
       <![CDATA[Mobile number error message isPlease enter a valid mobile no.]]>
     </line>
     <line>
+      <![CDATA[changes by narendra]]>
+    </line>
+    <line>
       <![CDATA[closing browser ]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-11-07T16:15:42 IST" name="Suite" finished-at="2025-11-07T16:16:42 IST" duration-ms="59893">
+  <suite started-at="2025-11-13T17:59:43 IST" name="Suite" finished-at="2025-11-13T18:00:56 IST" duration-ms="72629">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HealthInsuranceRunner@5b218417]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HealthInsuranceRunner@2a65fe7c]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2025-11-07T16:15:42 IST" name="Test" finished-at="2025-11-07T16:16:42 IST" duration-ms="59893">
+    <test started-at="2025-11-13T17:59:43 IST" name="Test" finished-at="2025-11-13T18:00:56 IST" duration-ms="72629">
       <class name="runner.HealthInsuranceRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.HealthInsuranceRunner@5b218417]" started-at="2025-11-07T16:15:42 IST" name="setUpClass" finished-at="2025-11-07T16:15:43 IST" duration-ms="1172" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.HealthInsuranceRunner@2a65fe7c]" started-at="2025-11-13T17:59:43 IST" name="setUpClass" finished-at="2025-11-13T17:59:45 IST" duration-ms="1392" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@1cfc2538]]>
+                <![CDATA[org.testng.TestRunner@1f67761b]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HealthInsuranceRunner@5b218417]" started-at="2025-11-07T16:15:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-11-07T16:16:15 IST" duration-ms="31189" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HealthInsuranceRunner@2a65fe7c]" started-at="2025-11-13T17:59:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-11-13T18:00:23 IST" duration-ms="37758" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -73,7 +76,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HealthInsuranceRunner@5b218417]" started-at="2025-11-07T16:16:15 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-11-07T16:16:38 IST" duration-ms="22902" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.HealthInsuranceRunner@2a65fe7c]" started-at="2025-11-13T18:00:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-11-13T18:00:53 IST" duration-ms="30288" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,7 +94,7 @@
               <![CDATA[setting browser as Chrome]]>
             </line>
             <line>
-              <![CDATA[gettting pincode error msg , msg is [[ChromeDriver: chrome on windows (90c3ccb0615ecec04e5f675de3e16f95)] -> xpath: //div[contains(text(),'pincode ')]]]]>
+              <![CDATA[gettting pincode error msg , msg is [[ChromeDriver: chrome on windows (40514c00a7d1b54081f8cb31f0c8f596)] -> xpath: //div[contains(text(),'pincode ')]]]]>
             </line>
             <line>
               <![CDATA[getting mobile number error msg , msg is Please enter a valid mobile no.]]>
@@ -103,11 +106,14 @@
               <![CDATA[Mobile number error message isPlease enter a valid mobile no.]]>
             </line>
             <line>
+              <![CDATA[changes by narendra]]>
+            </line>
+            <line>
               <![CDATA[closing browser ]]>
             </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.HealthInsuranceRunner@5b218417]" started-at="2025-11-07T16:16:38 IST" name="tearDownClass" finished-at="2025-11-07T16:16:42 IST" duration-ms="4492" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.HealthInsuranceRunner@2a65fe7c]" started-at="2025-11-13T18:00:53 IST" name="tearDownClass" finished-at="2025-11-13T18:00:56 IST" duration-ms="3078" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

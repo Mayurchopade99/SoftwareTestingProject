@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
 
-	features = {"E:\\Automation testing\\Coverfox_Test\\src\\test\\resources\\featureFile\\CoverfoxHealthInsurance.feature"
+	features = {"G:\\Software Testing\\SoftwareTestingProject\\src\\test\\resources\\featureFile\\CoverfoxHealthInsurance.feature"
          
 	}			
 	//"E:\\Automation testing\\Coverfox_1\\src\\test\\resources\\featureFile\\CoverfoxHealthInsurance.feature" }
