@@ -60,7 +60,7 @@ public class HealthInsurance {
 		coverfoxAddressDetailsPage.enterPincode(pincode);
 		coverfoxAddressDetailsPage.enterMobileNumber(mobNumber);
 		coverfoxAddressDetailsPage.clickOnContinueButton();
-		//Assert.fail();
+		Assert.fail();
 	}
 
 	@Then("matching Health Insurance Plans should be displayed as {string}")
